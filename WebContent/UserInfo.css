@@ -1,0 +1,97 @@
+@import "https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"
+@charset "ISO-8859-1";
+div{
+   height:150px;
+   width:400px;
+   margin:100px 200px 100px 900px;
+   box-shadow:0px 0px 1px grey
+
+}
+h2{  margin-left:500px;
+     color:lovry}
+#x{ 
+    margin:100px 20px 350px 10px;
+	font-size:20px
+  }
+.a{
+
+  
+       width:200px;
+       height:20px;
+	   border-radius:10px;
+	   outline:0px;
+	   text-align:center
+	   
+}
+
+#rg{
+	margin-left:100px;}
+
+#y{
+   padding-left:10px;
+   padding-right:28px;
+   font-size:20px
+
+   }
+#l{margin-left:100px;}
+#o{ margin-left:170px;}
+
+#d{ margin-left:100px;}
+body{
+ background-image:url('lib.jpg');
+ background-repeat:no-repeat;
+ background-size:cover
+ opacity:0.5
+}
+#div2{
+   height:350px;
+   width:400px;
+   margin:100px 200px 100px 900px;
+   box-shadow:0px 0px 0px grey
+   }
+.e{
+       width:200px;
+       height:20px;
+	   border-radius:10px;
+	   outline:0px;
+	   text-align:center
+}
+ #f{padding-right:43px;
+    font-size:20px}
+ #g{padding-right:29px;
+    font-size:20px}
+ #h{padding-right:46px;
+    font-size:20px}
+ #i{padding-right:62px;
+    font-size:20px}
+ #j{padding-right:20px;
+    font-size:20px}
+ #k{padding-right:59px;
+    font-size:20px}
+ #m{padding-right:60px;
+    font-size:20px}
+#ar{
+     margin-left:170px;
+	 font-size:20px}
+	 
+#div3{
+     height:200px;
+   width:400px;
+   margin:100px 200px 100px 900px;
+   box-shadow:0px 0px 10px grey
+}
+#ab{padding-right:79px;
+   font-size:15px}
+ #bc{padding-right:41px;
+       font-size:15px}
+ #cd{padding-right:20px;
+ font-size:15px}
+ .xy{
+       width:170px;
+       height:20px;
+	   border-radius:10px;
+	   outline:0px;
+	   text-align:center}
+#ef{
+   margin-left:170px;
+	 font-size:20px}

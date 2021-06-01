@@ -1,0 +1,110 @@
+@charset "ISO-8859-1";
+.wrapper{height:640px;
+         width:100%;
+		
+}
+.a{text-decoration:none;
+   margin:60px 30px 0px 0px;
+   font-size:20px;
+   padding:50px;
+   color:white
+  }
+ .a:hover {color:red}
+
+header{height:100px;
+        width:1366px;
+          background-color:black;
+		 }
+
+
+section{  height:470px;
+          width:1366px;
+          background-color:grey;
+		  background-image:url("images/libraryimage.jpg"); 
+		  background-size:cover;
+		  opacity:.9;}
+footer{height:80px;
+        width:1366px;
+          background-color:black;}
+
+img{height:80px;}
+
+
+.box{ background-color:black;
+      height:300px;
+	  width:900px;
+	  margin:10px auto;
+	  opacity:.6;
+	  overflow-y: scroll;
+	  color:white;
+}
+.on{ text-align:center;
+      color:#e3f2fd;
+	  font-size:40px;
+	  margin-left:400px}
+.lbl{text-align:center;
+      color:white;
+	  margin-left:570px;
+	  }
+.em{text-align:center;
+      color:white;
+	  margin-left:550px;
+	}
+
+.list{text-align:center;
+      color:#ab4939;
+	  font-size:35px; 
+	  margin-left:350px;
+	   }
+.lb{font-size:30px;
+     color:white;
+	 margin-left:235px;}
+table,th,td{border:1px solid none;
+            border-collapse:collapse;
+			text-align:left;}
+table{width:100%;}
+th{ position:sticky;
+    top:0;
+	background:#006400;
+	color:white;}
+tr th:nth-child(1){width:50px;
+                   text-align:center;
+				   background-color:grey}
+tr td:nth-child(1){
+                   text-align:center;
+				   background-color:#006400;}
+tr:hover{background-color:grey;}
+
+.bk{color:white;
+    margin-left:400px;
+	margin-bottom:20px;}
+
+/*.............bookinfo.......*/
+.booklinks{
+color:white;
+
+max-width:500px;
+line-height:45px;
+padding-left:50px;
+font-size:25px;
+margin: 180px 0px 0px 500px;
+}
+.booklinks i{
+margin-right:20px;
+font-size:25px;
+}
+.h1{   text-align:center;
+      color:white;
+	  font-size:30px;
+	  margin-left:40px}
+body{background-image:url('images/libraryimage.jpg');
+     background-size:cover;
+	 background-repeat:no-repeat;}
+.link{color:white
+}
+.link:hover{color:#7FFF00;}
+#link{margin-left:8px;
+      color:white;
+
+	  }
+#link:hover{color:#FF4500}
